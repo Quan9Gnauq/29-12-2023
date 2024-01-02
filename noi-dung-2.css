@@ -287,3 +287,77 @@ h3 {
   color: rgb(208, 208, 0);
   margin: 0px 5px;
 }
+.store-ratting {
+  gap: 12px;
+}
+.Uy-Tin {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+.Theo_doi {
+  display: flex;
+  align-items: center;
+}
+.TTBH {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 16px;
+}
+.TTBH div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 8px 0px;
+}
+#ttbh-CT {
+  padding-left: 8px;
+}
+#TTBH {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+}
+.HDBH a {
+  padding-left: 8px;
+  color: blue;
+}
+.TTCT {
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  gap: 4px;
+}
+#ttct {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+}
+td {
+  padding: 8px 0px;
+  line-height: 150%;
+}
+#mtsp {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+}
+#hdcs {
+  margin-top: 5px;
+  margin-bottom: 12px;
+  line-height: 21px;
+}
+#luu-y {
+  margin-top: 40px;
+  margin-bottom: 12px;
+}
+#thu-gon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#xem-them {
+  border: 0px;
+  color: blue;
+}
